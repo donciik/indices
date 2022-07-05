@@ -1,1 +1,2 @@
-indices_venv/
+venv/
+.idea/
